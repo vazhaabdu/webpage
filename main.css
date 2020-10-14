@@ -2,4 +2,9 @@ body {
   background: black;
   color: white;
   text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+p {
+  color: yellow;
 }
